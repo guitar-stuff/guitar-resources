@@ -85,7 +85,7 @@ Note that tabs and chords for songs on these sites are not always accurate. I fi
     * Not free, around C$70
     * Tabs and notation editor
     * The standard for most online tabs
-    * Expensive and not super stable, but it seems to be the most used software to write tabs and has lots of guitar-specific features that other notation apps lack, beginners definitely don't need it
+    * Expensive, but it seems to be the most used software to write tabs and has lots of guitar-specific features that other notation apps lack, beginners definitely don't need it however
 
 ### DAWs (Digital Audio Workstations)
 
