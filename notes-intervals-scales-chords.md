@@ -8,7 +8,7 @@ In Western Music, we have 12 notes:
 
 On the piano they are laid out like this:
 
-![Notes on the piano](./images/piano-notes-and-keys.jpg)
+![Notes on the piano](./piano-notes-and-keys.jpg)
 
 The "musical distance" (also called interval) between a key on the piano and the key right next to it (for example from ``B`` to ``C`` or ``D`` to ``D#/Eb``) is called a **semitone**. The distance between a key on the piano and another key leaving one key in between (for example from ``C`` to ``D`` or from ``E`` to ``F#/Gb``) is called a **tone**. One tone equals two semitones.
 
@@ -18,7 +18,7 @@ On the guitar, unlike the piano, we don't have a visual distinction between natu
 
 The layout of notes on the guitar is a little more complicated than on the piano, but it helps to know that when you have a note if you move a fret closer to the bridge you will be one semitone higher and if you move a fret closer to the nut you will be one semitone lower.
 
-![Notes on the guitar](./images/guitar-string-notes.jpg)
+![Notes on the guitar](./guitar-string-notes.jpg)
 
 ## Intervals
 
